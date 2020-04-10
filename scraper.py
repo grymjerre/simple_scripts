@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #Copyright Jeremias Grym 2020
 #Attribution-NonCommercial-NoDerivs
 #CC BY-NC-ND
@@ -27,4 +29,3 @@ print('Silver')
 print(update_s, price_s)
 print('Guld')
 print(update_g, price_g)
-
