@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #Copyright Jeremias Grym 2020
 #Attribution-NonCommercial-NoDerivs
@@ -17,5 +17,5 @@ for filename in "$mypath"*.pdf; do
 done
 
 awk 'BEGIN {sum = 0; c = 0}
-	{sum += $1; c++	}
+    {sum += $1; c++ }
     END {print "Summa: " sum "\n" "Snitt: " sum/c}' ./salary >> salary;
