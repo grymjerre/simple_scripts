@@ -1,8 +1,7 @@
 #!/usr/bin/bash
 
-#Copyright Jeremias Grym 2020
-#Attribution-NonCommercial-NoDerivs
-#CC BY-NC-ND
+#ISC License
+#Copyright (c) 2020 Jeremias Grym
 
 echo -n > salary
 
