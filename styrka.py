@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
-#Copyright Jeremias Grym 2019
-#Attribution-NonCommercial-NoDerivs
-#CC BY-NC-ND
+#ISC License
+#Copyright (c) 2020 Jeremias Grym
 
 folkis = 50 * 0.035
 shot = 4 * 0.4
