@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*ISC License
+Copyright (c) 2020 Jeremias Grym*/
+
 int main(void) {
     for (int i = 1; i <= 100; i++) {
         if (i%3!=0 && i%5!=0) {
@@ -10,6 +13,7 @@ int main(void) {
             if (i % 5 == 0)
                 printf("Buzz");
         }
-        printf("\n");
+	printf("\n");
     }
 }
+
