@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
-#ISC License
-#Copyright (c) 2020 Jeremias Grym
+# ISC License Copyright (c) 2020 Jeremias Grym
+# Läser lönespec som pdf och plockar ut beloppet för att räkna ut snittlönen på specarna i katalogen
 
 echo -n > salary
 
@@ -16,5 +16,6 @@ for filename in "$mypath"*.pdf; do
 done
 
 awk 'BEGIN {sum = 0; c = 0}
-    {sum += $1; c++ }
+	{sum += $1; c++	}
     END {print "Summa: " sum "\n" "Snitt: " sum/c}' ./salary >> salary;
+

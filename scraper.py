@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-#ISC License
-#Copyright (c) 2020 Jeremias Grym
+# ISC License Copyright (c) 2020 Jeremias Grym
+# Webbskrapare för att hämta aktuellt pris på silver resp guld från Avanza
 
 import requests
 import urllib.request
@@ -28,3 +28,4 @@ print('Silver')
 print(update_s, price_s)
 print('Guld')
 print(update_g, price_g)
+

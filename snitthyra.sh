@@ -1,7 +1,7 @@
-#!/usr/bin/bash
+#!/bin/bash
 
-#ISC License
-#Copyright (c) 2019 Jeremias Grym
+# ISC License Copyright (c) 2020 Jeremias Grym
+# Läser hyresavi som pdf och plockar ut beloppet för att räkna ut snitthyran på avierna i katalogen
 
 echo -n > hyra
 
@@ -16,5 +16,6 @@ for filename in "$mypath"*.pdf; do
 done
 
 awk 'BEGIN {sum = 0; c = 0}
-    {sum += $2; c++ }
+	{sum += $2; c++	}
     END {print "Summa: " sum "\n" "Snitt: " sum/c}' ./hyra >> hyra;
+
