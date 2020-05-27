@@ -1,4 +1,4 @@
-/* ISC License Copyright (c) 2020 Jeremias Grym */
+/* MIT License Copyright 2020 Jeremias Grym */
 
 #include <stdio.h>
 

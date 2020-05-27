@@ -1,4 +1,4 @@
-/* ISC License Copyright (c) 2020 Jeremias Grym */
+/* MIT License Copyright 2020 Jeremias Grym */
 
 /* Enkelt program för att räkna ut hur många folköl 3.5% eller nubbar sprit 
     som starköl eller vin motsvarar. Folkisar motsvarar mer än man tror!
