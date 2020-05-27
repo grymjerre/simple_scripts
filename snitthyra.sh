@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/bash
 
-# ISC License Copyright (c) 2020 Jeremias Grym
+# MIT License Copyright 2020 Jeremias Grym
 # Läser hyresavi som pdf och plockar ut beloppet för att räkna ut snitthyran på avierna i katalogen
 
 echo -n > hyra
