@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# MIT License Copyright 2019 Jeremias Grym
+# MIT License Copyright 2018 Jeremias Grym
 
 print("Ytterligare en ny sparsnurra!")
 print("Denna räknar ut tid till ett sparmål.")
