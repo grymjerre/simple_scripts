@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# MIT License Copyright 2020 Jeremias Grym
+# MIT License Copyright 2019 Jeremias Grym
 # Enkelt program för att jämföra valfri alkoholhaltig dryck med folköl eller sprit
 
 folkis = 50 * 0.035
