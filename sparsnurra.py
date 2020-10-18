@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/bin/python3
 
 # MIT License Copyright 2019 Jeremias Grym
 

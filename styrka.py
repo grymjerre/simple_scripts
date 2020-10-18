@@ -1,7 +1,8 @@
-#!/usr/bin/python3
+#!/bin/python3
 
 # MIT License Copyright 2019 Jeremias Grym
-# Enkelt program för att jämföra valfri alkoholhaltig dryck med folköl eller sprit
+# Enkelt program för att räkna ut hur många folköl 3.5% eller snapsar med sprit 
+# som starköl eller vin motsvarar. Folköl motsvarar mer alkohol än man tror!
 
 folkis = 50 * 0.035
 shot = 4 * 0.4

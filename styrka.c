@@ -1,14 +1,14 @@
 /* MIT License Copyright 2020 Jeremias Grym */
 
-/* Enkelt program för att räkna ut hur många folköl 3.5% eller nubbar sprit 
-    som starköl eller vin motsvarar. Folkisar motsvarar mer än man tror!
+/* Enkelt program för att räkna ut hur många folköl 3.5% eller snapsar med sprit 
+   som starköl eller vin motsvarar. Folköl motsvarar mer alkohol än man tror!
 */
 
 #include <stdio.h>
 
 int main(void) {
     float folkis = 50 * 0.035;
-    float shot = 4 * 0.04;
+    float shot = 4 * 0.4;
 
     float burk, stark;
     float alko, folk_ratio, shot_ratio;

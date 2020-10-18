@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/bin/python3
 
 # MIT License Copyright 2020 Jeremias Grym
 # Webbskrapare för att hämta aktuellt pris på silver resp guld från Avanza

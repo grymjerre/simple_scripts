@@ -1,6 +1,6 @@
-#!/usr/bin/bash
+#!/bin/bash
 
-# MIT License Copyright 2020 Jeremias Grym
+# MIT License Copyright 2019 Jeremias Grym
 # Läser lönespec som pdf och plockar ut beloppet för att räkna ut snittlönen på specarna i katalogen
 
 echo -n > salary

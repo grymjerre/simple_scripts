@@ -1,7 +1,7 @@
-#!/usr/bin/bash
+#!/bin/bash
 
-# MIT License Copyright 2020 Jeremias Grym
-# Läser hyresavi som pdf och plockar ut beloppet för att räkna ut snitthyran på avierna i katalogen
+# MIT License Copyright 2019 Jeremias Grym
+# Läser en hyresavi som pdf och plockar ut beloppet för att räkna ut snitthyran på avierna i katalogen
 
 echo -n > hyra
 
